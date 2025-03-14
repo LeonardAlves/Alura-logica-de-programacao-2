@@ -1,4 +1,4 @@
-# Exercios Logica de Programçºao 
+# Exercios Logica de Programção 
 
 Aprendendo noções basicas como: Let, alert e console.log
 
